@@ -40,10 +40,10 @@ This project focuses on classifying oil spills using a deep learning model built
 
 ## Results
 
-- **Accuracy**: `X%`
-- **Precision**: `Y%`
-- **Recall**: `Z%`
-- **F1 Score**: `W%`
+- **Accuracy**: `99%`
+- **Precision**: `1.00`
+- **Recall**: `83%`
+- **F1 Score**: `91%`
 
 The confusion matrix and training-validation plots help in visualizing the model's performance.
 
